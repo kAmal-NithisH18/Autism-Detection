@@ -40,7 +40,7 @@ The demo video is given : /screenshots/demo.mp4
 
 ```bash
 streamlit run Home.py
-
+```
 ##SCREENSHOTS
 ![Alert System](/screenshots/aut1.png)
 
