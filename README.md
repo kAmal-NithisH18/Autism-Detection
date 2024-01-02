@@ -42,7 +42,8 @@ The demo video is given : /screenshots/demo.mp4
 streamlit run Home.py
 
 ##SCREENSHOTS
-![Screenshot 2: Music Recommendation](/screenshots/aut1.png)
+![Alert System](/screenshots/aut1.png)
+
 ![Screenshot 2: Music Recommendation](/screenshots/aut2.png)
 ![Screenshot 2: Music Recommendation](/screenshots/aut3.png)
 ![Screenshot 2: Music Recommendation](/screenshots/aut4.png)
