@@ -41,10 +41,11 @@ The demo video is given : /screenshots/demo.mp4
 ```bash
 streamlit run Home.py
 ```
-##SCREENSHOTS
+## SCREENSHOTS
+
 ![Alert System](/screenshots/aut1.png)
 
-![Screenshot 2: Music Recommendation](/screenshots/aut2.png)
+![Screenshot 2](/screenshots/aut2.png)
 ![Screenshot 2: Music Recommendation](/screenshots/aut3.png)
 ![Screenshot 2: Music Recommendation](/screenshots/aut4.png)
 ![Screenshot 2: Music Recommendation](/screenshots/aut5.png)
