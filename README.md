@@ -47,8 +47,12 @@ streamlit run Home.py
 
 
 ![Screenshot 2](/screenshots/aut2.png)
-![Screenshot 2](/screenshots/aut3.png)
-![Screenshot 2:](/screenshots/aut4.png)
+
+<p float="left">
+  <img src="/screenshots/aut3.png" width="500" />
+  <img src="/screenshots/aut4.png" width="500"/>
+</p>
+
 ![Screenshot 2](/screenshots/aut5.png)
 
 ## LIME EXPLANATION
@@ -58,11 +62,11 @@ streamlit run Home.py
 
 ## PLOTS
 
-![Screenshot 2](/screenshots/aut8.png)
-![Screenshot 2](/screenshots/aut9.png)
-![Screenshot 2](/screenshots/aut10.png)
 
 
+<p float="left">
+  <img src="/screenshots/aut8.png" width="500" />
+  <img src="/screenshots/aut9.png" width="500"/>
+</p>
 
-
-
+<img src="/screenshots/aut10.png" width="500"/>
