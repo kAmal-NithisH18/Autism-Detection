@@ -45,14 +45,21 @@ streamlit run Home.py
 
 ![Alert System](/screenshots/aut1.png)
 
+
 ![Screenshot 2](/screenshots/aut2.png)
-![Screenshot 2: Music Recommendation](/screenshots/aut3.png)
-![Screenshot 2: Music Recommendation](/screenshots/aut4.png)
-![Screenshot 2: Music Recommendation](/screenshots/aut5.png)
-![Screenshot 2: Music Recommendation](/screenshots/aut6.png)
-![Screenshot 2: Music Recommendation](/screenshots/aut7.png)
-![Screenshot 2: Music Recommendation](/screenshots/aut8.png)
-![Screenshot 2: Music Recommendation](/screenshots/aut9.png)
-![Screenshot 2: Music Recommendation](/screenshots/aut10.png)
+![Screenshot 2](/screenshots/aut3.png)
+![Screenshot 2:](/screenshots/aut4.png)
+![Screenshot 2](/screenshots/aut5.png)
+
+## LIME EXPLANATION
+
+![Screenshot 2](/screenshots/aut6.png)
+![Screenshot 2](/screenshots/aut7.png)
+
+## PLOTS
+
+![Screenshot 2](/screenshots/aut8.png)
+![Screenshot 2](/screenshots/aut9.png)
+![Screenshot 2](/screenshots/aut10.png)
 
 
