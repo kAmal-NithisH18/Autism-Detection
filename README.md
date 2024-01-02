@@ -58,8 +58,13 @@ streamlit run Home.py
 
 ## PLOTS
 
-![Screenshot 2](/screenshots/aut8.png)
-![Screenshot 2](/screenshots/aut9.png)
-![Screenshot 2](/screenshots/aut10.png)
+<div>
+  <img src="//screenshots/aut8.png" alt="Home Page Screenshot" width="400">
+  <img src="//screenshots/aut9.png" alt="Prediction Screenshot" width="400">
+    <img src="//screenshots/aut10.png" alt="Prediction Screenshot" width="400">
+</div>
+<div>
+
+
 
 
